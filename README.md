@@ -28,14 +28,19 @@ Before you start, make sure you have the following installed:
    ```bash
    git clone https://github.com/ChoudharyHarish/LinguaApp.git
 
-2. Install dependencies in your local system
-      cd client
-      npm install
-      cd  server
-      npm install
+2. Install dependencies in your local system:
+
+   ```bash
+   cd client
+   ```bash
+   npm install
+   ```bash
+   cd  server
+   ```bash
+   npm install
    
-3. Make your db in mongodb atlas or in local and provide the url srtring in .env file of your project in server directory
+4. Make your db in mongodb atlas or in local and provide the url srtring in .env file of your project in server directory
    
-4. Now you are ready to run the application
-5. Run the application by using npm start.
+5. Now you are ready to run the application
+6. Run the application by using npm start.
       
