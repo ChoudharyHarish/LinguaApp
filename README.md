@@ -5,10 +5,12 @@ LinguaApp is a language learning platform that helps users improve their languag
 ## Features
 
 - User can select their preferred language
+- User will be awarded badges based on their score
+- User can update their language preferences and reset their profile
+- User can view the leaderboard of the languages and see his rankings.
+- Complete User authentication with json web token used for maintaining user sessions.
+- User will have option to view history of test given by him/her.
 
-## Demo
-
-You can check out a live demo of LinguaApp at [https://linguaapp.example.com](https://linguaapp.example.com).
 
 ## Getting Started
 
