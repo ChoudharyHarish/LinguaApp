@@ -41,6 +41,7 @@ Before you start, make sure you have the following installed:
 5. Now you are ready to run the application
  
 7. Run the application by using npm start.
+ 
       ```bash
       cd client
       npm start
