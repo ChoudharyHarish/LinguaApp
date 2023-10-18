@@ -1,0 +1,747 @@
+[
+  {
+    "question": "I spoke to ___.",
+    "options": ["she", "her"],
+    "correctAnswer": "she",
+    "language": "english", 
+    "level": 1
+  },
+  {
+    "question": "Where ____ you come from?",
+    "options": ["do", "are"],
+    "correctAnswer": "do",
+    "language": "english", 
+    "level": 1
+  },
+  {
+    "question": "What time does she ___ up?",
+    "options": ["get", "gets"],
+    "correctAnswer": "get",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "Where ___ he live?",
+    "options": ["do", "does"],
+    "correctAnswer": "does",
+    "language": "english",
+    "level": 1
+  },
+  {
+    "question": "'I am not ____ this film.'",
+    "options": ["liking", "enjoying"],
+    "correctAnswer": "liking",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I am seeing her ____ three o'clock.",
+    "options": ["in", "at", "on"],
+    "correctAnswer": "at",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "Easter is ___ March this year.",
+    "options": ["on", "at", "in"],
+    "correctAnswer": "in",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She's ____ work all day today.",
+    "options": ["at", "on"],
+    "correctAnswer": "at",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I go ___ home by bus.",
+    "options": ["home", "to home"],
+    "correctAnswer": "home",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "'Do you like it?'",
+    "options": ["'Yes, I like.'", "'Yes, I do.'"],
+    "correctAnswer": "'Yes, I do.'",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "It's the second road ___ the left.",
+    "options": ["in", "at", "on"],
+    "correctAnswer": "on",
+    "language": "english",
+    "level": 1  },
+  {
+    "question": "He's arriving ___ the station at six.",
+    "options": ["at", "on", "to"],
+    "correctAnswer": "at",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I ___ what she's saying.",
+    "options": ["can't understand", "am not understanding"],
+    "correctAnswer": "can't understand",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She lives ___ London.",
+    "options": ["on", "at", "in"],
+    "correctAnswer": "in",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I'm going ___ the bank to get some cash.",
+    "options": ["at", "to"],
+    "correctAnswer": "to",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I went there ____ foot.",
+    "options": ["in", "by", "at", "on", "to"],
+    "correctAnswer": "on",
+    "language": "english",
+    "level": 1
+  },
+  {
+    "question": "____ is a cinema in the shopping centre.",
+    "options": ["There", "It"],
+    "correctAnswer": "There",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "____ is it?",
+    "options": ["Who's", "Whose"],
+    "correctAnswer": "Who's",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I went ____ with my sister.",
+    "options": ["their", "there"],
+    "correctAnswer": "there",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She ____ as a doctor.",
+    "options": ["is", "works"],
+    "correctAnswer": "works",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She ___ a doctor.",
+    "options": ["is", "works"],
+    "correctAnswer": "is",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "How ___ did your journey take?",
+    "options": ["long", "long time"],
+    "correctAnswer": "long",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "He comes ____ the north of the country.",
+    "options": ["to", "from"],
+    "correctAnswer": "from",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She ____ goodbye.",
+    "options": ["said", "told", "spoke"],
+    "correctAnswer": "said",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "They are ___ love.",
+    "options": ["in", "on", "at", "to", "by"],
+    "correctAnswer": "in",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "You _____ drink and drive.",
+    "options": ["may", "must", "may not", "must not"],
+    "correctAnswer": "must not",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She's studying law ____ university.",
+    "options": ["in", "at"],
+    "correctAnswer": "at",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "The bus stopped ___ the traffic lights.",
+    "options": ["in", "on", "at"],
+    "correctAnswer": "at",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "She ____ English twice a week.",
+    "options": ["study", "studys", "studeis", "studies"],
+    "correctAnswer": "studies",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "____ is it?",
+    "options": ["Who's", "Whose"],
+    "correctAnswer": "Who's",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "___ you afford it?",
+    "options": ["Do", "Can"],
+    "correctAnswer": "Can",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "They aren't selling ____ tickets.",
+    "options": ["much", "many"],
+    "correctAnswer": "many",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "There isn't ______ for all of us to get in.",
+    "options": ["room enough", "enough room"],
+    "correctAnswer": "room enough",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "The police ___ called.",
+    "options": ["was", "were"],
+    "correctAnswer": "were",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "The police ___ called.",
+    "options": ["was", "were"],
+    "correctAnswer": "were",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "In a shop, you are a ____.",
+    "options": ["client", "customer"],
+    "correctAnswer": "customer",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "It's bigger ____ the old one.",
+    "options": ["as", "than", "then"],
+    "correctAnswer": "than",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "'___ did she do it?' 'Yesterday.'",
+    "options": ["Why", "Where", "When", "How"],
+    "correctAnswer": "How",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "How ___ you spell it?",
+    "options": ["do", "can"],
+    "correctAnswer": "do",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "How much did you ___ in the shop?",
+    "options": ["cost", "spend"],
+    "correctAnswer": "spend",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "'How ___ did you buy?' 'Three kilos.'",
+    "options": ["much", "many"],
+    "correctAnswer": "much",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I don't work ____ the morning.",
+    "options": ["on", "in", "at"],
+    "correctAnswer": "in",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I saw her ___.",
+    "options": ["last week", "the last week"],
+    "correctAnswer": "last week",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "It costs ____ dollars.",
+    "options": ["forty", "fourty"],
+    "correctAnswer": "forty",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I heard it ___ the radio.",
+    "options": ["in", "at", "on"],
+    "correctAnswer": "on",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "There ____ a lot of complaints.",
+    "options": ["was", "were"],
+    "correctAnswer": "were",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "There ____ a lot of sugar in the coffee.",
+    "options": ["was", "were"],
+    "correctAnswer": "was",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "He didn't work ____.",
+    "options": ["enough hard", "hard enough"],
+    "correctAnswer": "hard enough",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I ____ her.",
+    "options": ["am not knowing", "don't know", "doesn't know"],
+    "correctAnswer": "don't know",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "___ girlfriend left him.",
+    "options": ["He", "Him", "His"],
+    "correctAnswer": "His",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "There are too ____ questions in this test.",
+    "options": ["much", "many"],
+    "correctAnswer": "many",
+    "language": "english",
+    "level": 0
+  },
+  {
+    "question": "I hope you do ___ in this test.",
+    "options": ["good", "well"],
+    "correctAnswer": "well",
+    "language": "english",
+    "level": 0
+  },
+  {
+      "question": "J'ai parlé à ___.",
+      "options": ["elle", "la"],
+      "correctAnswer": "elle",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "D'où ____ tu viens ?",
+      "options": ["es", "est"],
+      "correctAnswer": "es",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "À quelle heure est-ce qu'elle se ___ ?",
+      "options": ["lève", "lèves"],
+      "correctAnswer": "lève",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Où ___-il habite ?",
+      "options": ["fait", "est"],
+      "correctAnswer": "est",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "'Je n'aime pas ___ ce film.'",
+      "options": ["regarde", "aime"],
+      "correctAnswer": "aime",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Je la vois ____ trois heures.",
+      "options": ["à", "de"],
+      "correctAnswer": "à",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Pâques est en ___ mars cette année.",
+      "options": ["à", "en"],
+      "correctAnswer": "en",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Elle est ___ travail toute la journée aujourd'hui.",
+      "options": ["à", "au"],
+      "correctAnswer": "au",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Je rentre ___ maison en bus.",
+      "options": ["à la", "chez"],
+      "correctAnswer": "chez",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "'Tu aimes ça ?'",
+      "options": ["'Oui, j'aime.'", "'Oui, j'aime bien.'"],
+      "correctAnswer": "'Oui, j'aime bien.'",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "C'est la deuxième rue ___ gauche.",
+      "options": ["sur", "à"],
+      "correctAnswer": "à",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Il arrive ___ gare à six heures.",
+      "options": ["à", "de"],
+      "correctAnswer": "à",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Je ___ ce qu'elle dit.",
+      "options": ["ne peux pas comprendre", "comprends"],
+      "correctAnswer": "ne peux pas comprendre",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Elle habite ___ Paris.",
+      "options": ["sur", "à"],
+      "correctAnswer": "à",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Je vais ___ banque retirer de l'argent.",
+      "options": ["à la", "à la"],
+      "correctAnswer": "à la",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "J'y suis allé ___ pied.",
+      "options": ["en", "à"],
+      "correctAnswer": "à",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "____ est un cinéma dans le centre commercial.",
+      "options": ["Il y a", "Là-bas"],
+      "correctAnswer": "Il y a",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "____ c'est ?",
+      "options": ["Qui est", "À qui est"],
+      "correctAnswer": "Qui est",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Je suis allé ___ ma sœur.",
+      "options": ["leur", "là-bas"],
+      "correctAnswer": "là-bas",
+      "language": "french",
+      "level": 0
+    },
+    {
+      "question": "Elle ___ comme médecin.",
+      "options": ["travaille", "est"],
+      "correctAnswer": "est",
+      "language": "french",
+      "level": 0
+    },
+    {
+        "question": "Ich habe mit ___ gesprochen.",
+        "options": ["sie", "ihr"],
+        "correctAnswer": "sie",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Woher ____ du?",
+        "options": ["tust", "kommst"],
+        "correctAnswer": "kommst",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Um wie viel Uhr steht sie ___ auf?",
+        "options": ["auf", "aufs"],
+        "correctAnswer": "auf",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Wo ___ er wohnen?",
+        "options": ["tut", "wo"],
+        "correctAnswer": "wo",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "'Ich mag diesen Film ___.'",
+        "options": ["sehe", "mag"],
+        "correctAnswer": "mag",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich treffe sie ___ drei Uhr.",
+        "options": ["am", "um"],
+        "correctAnswer": "um",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ostern ist im ___ März dieses Jahr.",
+        "options": ["im", "in"],
+        "correctAnswer": "im",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Sie ist ___ Arbeit den ganzen Tag heute.",
+        "options": ["auf", "an"],
+        "correctAnswer": "an",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich gehe ___ Bank, um Bargeld zu holen.",
+        "options": ["an die", "zur"],
+        "correctAnswer": "zur",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "'Magst du das?'",
+        "options":["'Ja, ich mag.'", "'Ja, das tue ich.'"],
+        "correctAnswer": "'Ja, das tue ich.'",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Es ist die zweite Straße ___ der linken Seite.",
+        "options": ["in", "auf"],
+        "correctAnswer": "auf",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Er kommt ___ Bahnhof um sechs Uhr.",
+        "options": ["am", "zum"],
+        "correctAnswer": "am",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich ___, was sie sagt.",
+        "options": ["kann nicht verstehen", "verstehe"],
+        "correctAnswer": "kann nicht verstehen",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Sie lebt ___ Berlin.",
+        "options": ["auf", "in"],
+        "correctAnswer": "in",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich gehe ___ Bank, um Bargeld zu holen.",
+        "options": ["an die", "zur"],
+        "correctAnswer": "zur",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich bin ___ Fuß dorthin gegangen.",
+        "options": ["in", "auf"],
+        "correctAnswer": "zu",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "____ ist ein Kino im Einkaufszentrum.",
+        "options": ["Es", "Dort"],
+        "correctAnswer": "Es",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "____ ist das?",
+        "options": ["Wer's", "Wessen"],
+        "correctAnswer": "Wer's",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Ich ging ___ meiner Schwester.",
+        "options": ["ihre", "dorthin"],
+        "correctAnswer": "dorthin",
+        "language": "german",
+        "level": 0
+      },
+      {
+        "question": "Sie ___ als Ärztin.",
+        "options": ["travaille", "ist"],
+        "correctAnswer": "ist",
+        "language": "german",
+        "level": 0
+      },
+      {
+          "question": "मैंने ___ से बात की।",
+          "options": ["उससे", "उसके साथ"],
+          "correctAnswer": "उससे",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "तुम कहां ___ हो?",
+          "options": ["हो", "से"],
+          "correctAnswer": "से",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "वह कितने बजे उठती ___?",
+          "options": ["है", "हैं"],
+          "correctAnswer": "है",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "वह कहां ___ रहता है?",
+          "options": ["करता", "है"],
+          "correctAnswer": "है",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "'मुझे यह फिल्म ___ नहीं है।'",
+          "options": ["देखनी", "पसंद"],
+          "correctAnswer": "पसंद",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "मैं उसे ___ बजे देख रहा हूँ।",
+          "options": ["सुबह", "रात"],
+          "correctAnswer": "सुबह",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "इस साल पास्का ___ मार्च में है।",
+          "options": ["पर", "में"],
+          "correctAnswer": "में",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "वह आज पूरे दिन ___ काम कर रही है।",
+          "options": ["बिना रुके", "जागरूक"],
+          "correctAnswer": "बिना रुके",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "मैं बस से ___ जा रहा हूँ।",
+          "options": ["स्कूल", "घर"],
+          "correctAnswer": "घर",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "'क्या तुम्हें यह पसंद है?'",
+          "options":["'हां, मुझे पसंद है.'", "'हां, मैं यह पसंद करता हूँ.'"],
+          "correctAnswer": "'हां, मुझे पसंद है.'",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "यह दूसरी ओर ___ बड़ी सड़क है।",
+          "options": ["सबसे छोटी", "पर"],
+          "correctAnswer": "पर",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "वह छह बजे ___ स्थानक पर आ रहा है।",
+          "options": ["के पास", "पर"],
+          "correctAnswer": "के पास",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "मैं ___ वह क्या कह रही है।",
+          "options": ["समझ नहीं पा रहा", "नहीं समझ सकता"],
+          "correctAnswer": "नहीं समझ सकता",
+          "language": "hindi",
+          "level": 0
+        },
+        {
+          "question": "वह लंदन ___ रही है।",
+          "options": ["पर", "में"],
+          "correctAnswer": "में",
+          "language": "hindi",
+          "level": 0
+        }
+]
+      
+    
+  
+
