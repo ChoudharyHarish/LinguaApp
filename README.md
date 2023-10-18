@@ -32,11 +32,8 @@ Before you start, make sure you have the following installed:
 
    ```bash
    cd client
-   ```bash
    npm install
-   ```bash
    cd  server
-   ```bash
    npm install
    
 4. Make your db in mongodb atlas or in local and provide the url srtring in .env file of your project in server directory
