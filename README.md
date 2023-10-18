@@ -29,9 +29,9 @@ Before you start, make sure you have the following installed:
    git clone https://github.com/ChoudharyHarish/LinguaApp.git
 
 2. Install dependencies in your local system
-      ``bash
-         cd client
-         npm install
+      ```bash
+      cd client
+      npm install
       ``bash
          cd server
          npm install
