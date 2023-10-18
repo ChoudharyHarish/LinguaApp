@@ -36,8 +36,15 @@ Before you start, make sure you have the following installed:
    cd  server
    npm install
    
-4. Make your db in mongodb atlas or in local and provide the url srtring in .env file of your project in server directory
+4. Make your db in Mongodb Atlas or in your local system and provide the url srtring in .env file of your project in server directory
    
 5. Now you are ready to run the application
-6. Run the application by using npm start.
+ 
+7. Run the application by using npm start.
+      ```bash
+      cd client
+      npm start
+      cd  server
+      npm start
+      
       
