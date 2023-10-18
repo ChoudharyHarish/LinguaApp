@@ -4,17 +4,7 @@ LinguaApp is a language learning platform that helps users improve their languag
 
 ## Features
 
-- **Interactive Language Lessons:** Engage in interactive language lessons that cover various topics and difficulty levels.
-
-- **Vocabulary Building Exercises:** Enhance your vocabulary with a wide range of word exercises and quizzes.
-
-- **Quizzes and Challenges:** Test your knowledge and language skills with quizzes and challenges.
-
-- **Leaderboard:** Compete with other users and track your progress on the leaderboard.
-
-- **User Profiles and Achievements:** Create user profiles, earn achievements, and showcase your language-learning journey.
-
-- **Multi-Language Support:** LinguaApp supports multiple languages, making it suitable for learners of different languages.
+- User can select their preferred language
 
 ## Demo
 
